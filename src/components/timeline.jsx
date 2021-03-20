@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship  <span> May 2021-present</span></h2>
-                        <p>SUMMER 2021 internship</p>
+                        <h2>Software Developer @ Unity Technologies <span>May - August 2021</span></h2>
+                        <p>Software Development internship.</p>
                       </div>
                     </div>
                   </article>
@@ -45,7 +45,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Computer Technician @ BC Technology for Learning Society<span>July 2019 - Sept 2019</span></h2>
+                        <h2>Computer Technician @ BC Technology for Learning Society <span>July 2019 - Sept 2019</span></h2>
                         <p> As a summer job, I worked as a computer technician that assembles hardware, troubleshoots software, and fills orders for electronics for low-income schools and families.
                           </p> 
                       </div>
