@@ -23,7 +23,7 @@ export default class Introduction extends Component {
                           <h1> I'm Pamira, <br /> lovely to meet you! </h1>
                         </Typist>
 
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1_4H2erpSbl1Tcee1O6LEa4-LOf2jQsj5bZUt-h5o6hE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1dqroJmbxbtXI6JDWaWlbvgazqzFcDu2jKlzQo9_BMew/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
